@@ -25,4 +25,4 @@ A API do projeto está hospedado e rodando para teste, no link abaixo.
 
 ## Autores
 
-- [@LeoTolotti](https://github.com/LeoTolotti)git
+- [@LeoTolotti](https://github.com/LeoTolotti)
