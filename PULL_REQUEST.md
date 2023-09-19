@@ -5,9 +5,9 @@ Comeco o projeto do zero iniciando a API com NodeJs .
 Crio uma pasta src na raiz do projeto.
 
 Crio as pastas:
--bancodedados - Cria a conexão com o bando de dados MongoDB usando a variavel de ambiente .env MONGODB_URI
--controle - Onde é feito todo o processamento dos requests para o banco de dados.
--modelos - Onde eu crio o modelo das informações usado no banco de dados.
+- bancodedados - Cria a conexão com o bando de dados MongoDB usando a variavel de ambiente .env MONGODB_URI
+- controle - Onde é feito todo o processamento dos requests para o banco de dados.
+- modelos - Onde eu crio o modelo das informações usado no banco de dados.
 
 O arquivo rotas.js contem as rotas de acesso da api.
 
