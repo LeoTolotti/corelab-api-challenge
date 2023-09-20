@@ -28,7 +28,6 @@ A API do projeto está hospedado e rodando para teste, no link abaixo.
    ```bash
    npm start
 
-
 ## Autores
 
 - [@LeoTolotti](https://github.com/LeoTolotti)
