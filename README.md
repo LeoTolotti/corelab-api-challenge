@@ -14,6 +14,21 @@ A API do projeto está hospedado e rodando para teste, no link abaixo.
 
 - [API - CoreNotes](https://corelab-api-challenge-h8ne6b9fo-leotolotti.vercel.app/tarefas)
 
+## Uso Local
+
+1. Para o uso local dessa hospedagem, siga os passos seguintes: 
+   ```bash
+   npm install
+
+2. Crie um arquivo .env na raiz do projeto e configure as seguintes variaveis de ambientes.
+- MONGODB_URI
+- PORT  
+
+3. Inicie o projeto.
+   ```bash
+   npm start
+
+
 ## Autores
 
 - [@LeoTolotti](https://github.com/LeoTolotti)
